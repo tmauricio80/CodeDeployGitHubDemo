@@ -15,4 +15,4 @@ In this mini project you can perform CRUD Operation, CRUD => Create,Read,Update 
 
 ##### 4. Run `php artisan laravel-vue:install` and just give the answers.
 
-##### Congratulations! You can now run this mini project.
+##### Congratulations! Do it
