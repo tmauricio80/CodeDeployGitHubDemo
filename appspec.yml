@@ -7,8 +7,8 @@ files:
 artifacts:
   files:
     - '**/*'
-  base-directory: /
-  name: demo-test
+  base-directory: base_location
+  name: dev-backend-build-artifact
   discard-paths: no
 
 hooks:
