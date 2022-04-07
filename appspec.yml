@@ -4,6 +4,13 @@ files:
   - source: /
     destination: /var/www/html/
 
+artifacts:
+  files:
+    - '**/*'
+  base-directory: /
+  name: demo-test
+  discard-paths: no
+
 hooks:
   BeforeInstall:
     - location: bash/before_deployment.sh
